@@ -1,0 +1,7 @@
+__pycache__
+mlartifacts
+mlruns
+venv
+*.pkl
+*.csv
+*.txt
